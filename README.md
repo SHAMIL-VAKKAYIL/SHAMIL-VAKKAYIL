@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SHAMIL-VAKKAYIL
-- 👀 I’m interested in full-stack web developer
-- 🌱 I’m currently learning node js
+- 👀 I’m interested in front-end developer
+- 🌱 I’m currently learning 
+- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
