@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamil-vakkayil" alt="shamil-vakkayil" /></a> </p>
 
-- 🌱 I’m currently learning **React-Native Mern-Stack**
+- 🌱 I’m currently learning **React-Native , Mern-Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SHAMIL-VAKKAYIL](https://github.com/SHAMIL-VAKKAYIL)
 
