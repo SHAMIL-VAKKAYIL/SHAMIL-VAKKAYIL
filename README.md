@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React-Native , Mern-Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SHAMIL-VAKKAYIL](https://github.com/SHAMIL-VAKKAYIL)
+- 👨‍💻 All of my projects are available at [github.com/SHAMIL-VAKKAYIL](https://github.com/SHAMIL-VAKKAYIL)
 
 - 💬 Ask me about **Front-End web dev and every thing about computer**
 
