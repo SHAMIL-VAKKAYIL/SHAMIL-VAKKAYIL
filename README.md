@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 All of my projects are available at https://shamilvakkayil.com<br>💬 Ask me about backend dev and every thing about computer<br>📫 How to reach me msvshamil470@gmail.com<br>⚡ Fun fact : I write code better at night than during the day
+👨‍💻 All of my projects are available at https://shamilvakkayil.in<br>💬 Ask me about backend dev and every thing about computer<br>📫 How to reach me msvshamil470@gmail.com<br>⚡ Fun fact : I write code better at night than during the day
 
 
 ## 🌐 Socials:
